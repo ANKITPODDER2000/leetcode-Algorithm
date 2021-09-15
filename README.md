@@ -16,3 +16,6 @@ In mathematics and computer science, an algorithm is defined as a process or set
 - Day 2
   - [977: Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
   - [189: Rotate Array](https://leetcode.com/problems/rotate-array)
+- Day 3
+  - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)
+  - [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
