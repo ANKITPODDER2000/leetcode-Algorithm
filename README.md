@@ -19,3 +19,9 @@ In mathematics and computer science, an algorithm is defined as a process or set
 - Day 3
   - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)
   - [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+- Day 4
+  - [344. Reverse String](https://leetcode.com/problems/reverse-string)
+  - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)
+- Day 5
+  - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
+  - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
