@@ -37,3 +37,6 @@ In mathematics and computer science, an algorithm is defined as a process or set
 - Day 9 -> **BFS / DFS**
   - [542. 01 Matrix](https://leetcode.com/problems/01-matrix)
   - [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
+- Day 10 -> **Recursion / Backtracking**
+  - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+  - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
